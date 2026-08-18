@@ -1,0 +1,1 @@
+Place profile photo, project screenshots and certificate images in this folder. The current portfolio intentionally uses CSS visuals instead of fake screenshots.
